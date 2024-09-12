@@ -43,7 +43,7 @@
 *https://main.webbizcraft.shop* <br>
 
 **시연 영상** <br>
-[1차 출시][(https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing)](https://github.com/user-attachments/assets/afc1390a-8a1d-4093-95f1-c6c8bc0712f7)
+[1차 출시](https://drive.google.com/file/d/10inKFQjI8fsM7oqXdLQUS53h_G6_GTfK/view?usp=sharing)
 
 ---
 
